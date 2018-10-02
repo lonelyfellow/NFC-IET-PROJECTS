@@ -1,0 +1,16 @@
+Assigment Details
+
+Group Members
+M Raheel Anwar (249)
+M Umair Aslam (243)
+M Ahsan Chohan (201)
+
+Work Division
+Designing & CSS >> Muhammad Raheel Anwar
+Basic Skeleton HTML & CSS >> Muhammad Ahsan Chohan
+HTML Divisions & Organization >> Muhammad Umair Aslam
+Final Touch >> Muhammad Raheel Anwar & Umair Aslam
+Images Placement >> Muhammad Ahsan Chohan
+Layout Selection >> Muhammad Umair Aslam
+Scripting & Animations >> Muhammad Raheel Anwar
+Implementation >> All Members Together

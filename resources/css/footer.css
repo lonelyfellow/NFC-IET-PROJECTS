@@ -1,0 +1,59 @@
+.footer {
+    display: flex;
+    background-color: rgb(0, 73, 136);
+    width: 100%;
+}
+
+.footer-col {
+    flex: 25%;
+    display: grid;
+    text-align: center;
+    align-items: center;
+}
+
+.feedback {
+    width: 145px;
+    height: 145px;
+    padding-left: 35%;
+    text-align: center;
+}
+
+.footer-col h4 {
+
+    margin-left: 15px;
+    color: white;
+    align-items: center;
+
+}
+
+.social-btn {
+    display: inline;
+    padding-left: 10px;
+}
+
+.social-btn button {
+    width: 55px;
+    height: 55px;
+    margin: 5px;
+    border-radius: 50%;
+    background-color: rgb(23, 42, 83);
+
+    font-weight: 500;
+    color: aliceblue;
+    border: none;
+}
+
+.social-btn img {
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+
+}
+
+#footer-2 {
+    height: 80px;
+    padding-top: 5px;
+    background-color: rgb(0, 73, 136);
+    text-align: center;
+    color: aliceblue;
+}
